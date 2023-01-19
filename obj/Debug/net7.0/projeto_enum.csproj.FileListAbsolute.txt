@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\bin\Debug\net7.0\projeto_enum.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\bin\Debug\net7.0\projeto_enum.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\bin\Debug\net7.0\projeto_enum.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\bin\Debug\net7.0\projeto_enum.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\bin\Debug\net7.0\projeto_enum.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\refint\projeto_enum.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\projeto_enum.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\Curso_C#\Enum\projeto_enum\obj\Debug\net7.0\ref\projeto_enum.dll
